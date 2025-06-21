@@ -1,27 +1,25 @@
-## 25-1 캡스톤디자인
+## 유튜브 학습 도우미
+**25-1 캡스톤디자인 프로젝트**
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-![Image](https://github.com/user-attachments/assets/a86332bd-765f-465e-afb0-b28a95308b76)
 [report](https://drive.google.com/file/d/1_9Kp8n4KWfB6USjmv5a_xSVTTfnOVp5S/view?usp=drive_link)
 
-![Image](https://github.com/user-attachments/assets/c8a839af-3b98-4223-ab0f-87866228cc6c)
+## 프로젝트 구성
+- [**Backend**](https://github.com/youtube-lecture-note/backend)
+  <p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth"/>
+  </p>
+- [**Frontend**](https://github.com/youtube-lecture-note/frontend)
+  <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Zustand-00B67A?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  </p>
 
-![image](https://github.com/user-attachments/assets/7aee7ac8-dbef-4f5b-bc20-fef460ac8bd1)
+---
 
-![image](https://github.com/user-attachments/assets/4397236b-16d6-4328-9090-3b93da01c2e6)
-
-![image](https://github.com/user-attachments/assets/12263294-ce42-4120-abf7-d941a84a4413)
-
-![image](https://github.com/user-attachments/assets/f06be586-6dce-4d8f-a6c0-e205710e4307)
+## 기능 요약
 
 ![image](https://github.com/user-attachments/assets/801f474a-308c-4c3f-a96d-f059be727d11)
 
@@ -31,4 +29,4 @@
 
 ![image](https://github.com/user-attachments/assets/3fd26c74-dea0-446c-a45a-faa30bed9dfb)
 
-![image](https://github.com/user-attachments/assets/08c53618-8f83-4ab3-869d-5c7d1d3ab11b)
+
