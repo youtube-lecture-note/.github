@@ -1,8 +1,8 @@
 ## 유튜브 학습 도우미
 **25-1 캡스톤디자인 프로젝트**
 
-[report](https://drive.google.com/file/d/1_9Kp8n4KWfB6USjmv5a_xSVTTfnOVp5S/view?usp=drive_link)  
-[manual](https://drive.google.com/file/d/1VPKjZNhnY18KXQAKT7MrCbcIcd2z7-oz/view?usp=sharing)
+[report](./capstone-team5-final-report.pdf)  
+[manual](./capstone-team5-manual.pdf)
 
 
 ## 프로젝트 구성
